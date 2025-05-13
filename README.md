@@ -1,6 +1,6 @@
 # CRM in C++ – Customer Database Management
 
-This project implements a simple **Customer Relationship Management (CRM)** system in C++ for tracking product purchases by customers. It was developed as by Moustafa Neematallah for **EE 312 – Software Design and Implementation**, Spring 2023, under Prof. Edison Thomaz at The University of Texas at Austin.
+This project implements a simple **Customer Relationship Management (CRM)** system in C++ for tracking product purchases by customers. It was developed as by Moustafa Neematallah for **EE 312 – Software Design and Implementation**, Spring 2023, at The University of Texas at Austin.
 
 ## Objective
 
